@@ -5,7 +5,7 @@
 [![][email-shield]][email-url]
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Delius&weight=600&pause=1000&color=F7C2ED&width=435&lines=Product%2FProject+Manager%2C+Leader%2C+Creator" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Delius&weight=600&pause=1000&color=F7C2ED&width=435&lines=Product+Manager%2C+Leader%2C+Creator" alt="Typing SVG" /></a>
 </p>
 
 **`Product Manager`**
