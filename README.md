@@ -5,26 +5,24 @@
 [![][email-shield]][email-url]
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Developer%2C+Designer%2C+Student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Delius&weight=600&pause=1000&color=F7C2ED&width=435&lines=Product%2FProject+Manager%2C+Leader%2C+Creator" alt="Typing SVG" /></a>
 </p>
 
-**`Student Developer`**
+**`Product Manager`**
 
 ~ _Communication is key in life_
 
-Undergraduate student at the University of Washington currently pursuing a *double degree* in Computer Science and Informatics. Open to work!
+Undergraduate student at the University of Washington currently pursuing a *degree* in Informatics. Open to work!
 
 Currently:
-- Leetcoding & job searching
-- Planning to create a personal website
-- TA for Frontend and Server Side Development 
+- PM ing
 
 ---
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin
-[linkedin-url]: https://linkedin.com/in/anthony-wen-programmer
+[linkedin-url]: https://linkedin.com/in/joelle-liu-35a931252
 [email-shield]: https://img.shields.io/badge/email-153595?style=for-the-badge&logo=gmail&logoColor=white
-[email-url]: mailto:wena04@uw.edu
+[email-url]: mailto:joelle7@uw.edu
 
 ### Languages and Tools
 
@@ -45,7 +43,7 @@ Currently:
 
 --- 
 
-![Anthony's Top Languages (!refresh)](https://github-readme-stats.vercel.app/api/top-langs/?username=wena04&layout=compact&theme=one_dark_pro&bg_color=00000000&border_color=e2e2e2&text_color=ce832c#gh-light-mode-only&cache_bust=1)
+![Anthony's Top Languages (!refresh)](https://github-readme-stats.vercel.app/api/top-langs/?username=joelle1725&layout=compact&theme=one_dark_pro&bg_color=00000000&border_color=e2e2e2&text_color=ce832c#gh-light-mode-only&cache_bust=1)
 
 ### Programming Projects (Repo Below Read Me)
 
