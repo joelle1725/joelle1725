@@ -1,21 +1,82 @@
-
 # Joelle Liu
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![][email-shield]][email-url]
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Delius&weight=600&pause=1000&color=F7C2ED&width=435&lines=Product+Manager%2C+Leader%2C+Creator" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Delius&weight=600&pause=1000&color=F7C2ED&width=435&lines=Product+Manager+%7C+Leader+%7C+Creator" alt="Typing SVG" />
+</a>
 </p>
 
-**`Product Manager`**
+<p align="center">
+  ✨ <em>Dream big, work boldly, live softly.</em> ✨
+</p>
 
-~ _Communication is key in life_
+---
 
-Undergraduate student at the University of Washington currently pursuing a *degree* in Informatics. Open to work!
+## 👩🏻‍💻 About Me
 
-Currently:
-- PM ing
+Currently studying Informatics with a minor in Business at the University of Washington, I’m passionate about building things that genuinely help people. From working on AI-powered products to leading student communities and creating content, I enjoy turning ideas into meaningful, real-world experiences.
+
+I’m most excited by the intersection of **technology, business, and people**—where problem-solving meets storytelling and strategy meets empathy. I value collaboration, thoughtful design, and creating impact with intention, whether that’s through product work, consulting projects, or community leadership.
+
+---
+
+## 💼 Experience & Leadership
+
+- 🎓 B.S. in Informatics, Minor in Business – University of Washington  
+- 💼 Jack and Ann Rhodes Professional Sales Program – Michael G. Foster School of Business 
+- 🤖 Product Management Intern – Gekko Corporation  
+- 📊 Project Consultant – Technology Consulting Association (TCA)  
+- 🧠 Project Consultant – Informatics Consulting Group (ICG)  
+- 🎤 Content Committee – Women in Informatics (WINFO)  
+- 💖 Vice President of External Affairs – Sigma Psi Zeta Sorority, Inc.  
+- 🎥 Social Media Content Creator & UGC Partnerships  
+
+---
+
+## 🚀 Projects
+
+### 🎨 Figma Prototypes
+🔗 [HCgiver – Interactive Prototype](https://www.figma.com/proto/3e7mg0pYvZX9yCs60a6xam/HCgiver-2.0?node-id=1-63&t=0xOjTFmlL2HVB0Dh-1)  
+🔗 [NeedsNow – Interactive Prototype](https://www.figma.com/proto/iCEO44VJEDPVpVmmn11eYP/WINFO-HACK---NeedsNow?page-id=0%3A1&node-id=36-192&viewport=234%2C522%2C0.08&t=AfxphzHxNQixDIX2-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=36%3A192)
+
+---
+
+## 🛠 Skills
+
+### Languages & Tools
+<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="R" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+<img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Illustrator" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+<img align="left" alt="Photoshop" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" />
+
+<br/><br/>
+
+**Product & Business:**  
+- Product Strategy & Roadmapping  
+- User Research & Validation  
+- Stakeholder Communication  
+- Agile / Sprint Planning  
+- Go-To-Market & Sales Enablement  
+
+---
+
+## 📬 Contact
+
+- 📧 Email: [joelle7@uw.edu](mailto:joelle7@uw.edu)  
+- 💼 LinkedIn: [linkedin.com/in/joelle-liu-35a931252](https://linkedin.com/in/joelle-liu-35a931252)  
+
+---
+
+### License
+© 2026 Joelle Liu. All rights reserved.
 
 ---
 
@@ -24,46 +85,3 @@ Currently:
 [email-shield]: https://img.shields.io/badge/email-153595?style=for-the-badge&logo=gmail&logoColor=white
 [email-url]: mailto:joelle7@uw.edu
 
-### Languages and Tools
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-<img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" />
-
-<br />
-
---- 
-
-![Anthony's Top Languages (!refresh)](https://github-readme-stats.vercel.app/api/top-langs/?username=joelle1725&layout=compact&theme=one_dark_pro&bg_color=00000000&border_color=e2e2e2&text_color=ce832c#gh-light-mode-only&cache_bust=1)
-
-### Programming Projects (Repo Below Read Me)
-
-
-<a href = "https://info-340-kack.web.app/"><img width="350" height="200" alt="Screenshot 2024-06-20 at 1 59 20 AM" src="https://github.com/wena04/wena04/assets/152733514/8944f68c-1b98-4f31-8ea1-9c8c99376826"></a>
-<a href = "https://wena04.shinyapps.io/INFO-201-Global-Economy-and-Climate-Change/"><img width="300" height="200" alt="Screenshot 2024-06-20 at 2 02 36 AM" src="https://github.com/wena04/wena04/assets/152733514/37257a12-6e85-486d-9ac8-a24073efc54b"></a>
-<a href = "https://devpost.com/software/fuel-maps"><img width="200" height="200" alt="Screenshot" src="https://github.com/wena04/Inrix-Amazon-Hack-2023/assets/152733514/14889ef7-3d7f-44fb-8e4d-6358ef6bd115"></a>
-<a href = "https://devpost.com/software/tfind-0qaop5?ref_content=user-portfolio&ref_feature=in_progress"><img width="250" height="200" alt="Screenshot 2024-10-13 at 9 45 38 AM" src="https://github.com/user-attachments/assets/57bde227-6ba3-41bb-a303-48e495bed77c"></a>
-
-
-### UI/UX Portfolio
-
-<a href = "https://drive.google.com/file/d/1hx23XGBuCu_u3P_DARiGyWa5UGCm5tBt/view?usp=sharing"><img width="300" height="150" alt="Screenshot 2024-05-26 at 4 59 14 AM" src="https://github.com/wena04/wena04/assets/152733514/40570707-f8d3-4b21-bb4c-edc50f553b06"></a>
-<a href = "https://drive.google.com/file/d/1JrCXgixEX8osZyXPQgzhIO_wBmj537vi/view?usp=sharing"><img width="300" alt="Screenshot 2024-05-26 at 5 04 28 AM" src="https://github.com/wena04/wena04/assets/152733514/6babd75d-b727-4e65-b517-b9878682457a"></a>
-<a href = "https://www.figma.com/proto/LwjP9jGd7bmgFA2xF9OAOr/ideas-%2F-draft?type=design&node-id=34-1356&t=FfBO8el42MWNwzdo-0&scaling=min-zoom&page-id=0%3A1"><img width="300" height="150" alt="Screenshot 2024-06-20 at 1 49 42 AM" src="https://github.com/wena04/wena04/assets/152733514/a29bd32c-8960-472a-a551-7d863edf4f05">
-</a>
-<a href = "https://drive.google.com/file/d/1ZBEyjDk2QXocxDbFstXs4e3nNyQH3Rqc/view?usp=sharing"><img width="300" alt="Screenshot 2024-05-26 at 5 06 49 AM" src="https://github.com/wena04/wena04/assets/152733514/a0bbef1b-abb7-4f77-aea0-505fa824d2c1"></a>
-<a href = "https://drive.google.com/file/d/1gP0mhcGH3UnfODoPwd4sMkxoKiXSCEK5/view?usp=sharing"><img width="300" alt="Screenshot 2024-05-26 at 5 08 16 AM" src="https://github.com/wena04/wena04/assets/152733514/e48ed972-c918-49a3-878c-bb7f5acb38f1"> </a>
-
-
-### License
-
-All content in this repository is © 2024 Anthony Wen. All rights reserved. Unauthorized copying, sharing, or redistribution of this content is strictly prohibited.
