@@ -39,7 +39,7 @@ I’m most excited by the intersection of **technology, business, and people**�
 - 💼 Jack and Ann Rhodes Professional Sales Program – Michael G. Foster School of Business 
 - 🤖 Product Management Intern – Gekko Corporation  
 - 📊 Project Consultant – Technology Consulting Association (TCA)  
-- 🧠 Project Consultant – Informatics Consulting Group (ICG)  
+- 🧠 Project Consultant – Information Consulting Group (ICG)  
 - 🎤 Content Committee – Women in Informatics (WINFO)  
 - 💖 Vice President of External Affairs – Sigma Psi Zeta Sorority, Inc.  
 - 🎥 Social Media Content Creator & UGC Partnerships  
