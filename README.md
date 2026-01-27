@@ -1,7 +1,17 @@
 # Joelle Liu
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![][email-shield]][email-url]
+<p align="left">
+  <a href="https://linkedin.com/in/joelle-liu-35a931252">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:joelle7@uw.edu">
+    <img src="https://img.shields.io/badge/Email-153595?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="[./Joelle_Liu_Resume.pdf](https://github.com/user-attachments/files/24874604/ResumePMJan26.docx)">
+    <img src="https://img.shields.io/badge/Resume-FFC0CB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
+
 
 <p align="center">
 <a href="https://git.io/typing-svg">
