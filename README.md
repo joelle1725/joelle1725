@@ -7,7 +7,7 @@
   <a href="mailto:joelle7@uw.edu">
     <img src="https://img.shields.io/badge/Email-153595?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="[./Joelle_Liu_Resume.pdf](https://github.com/user-attachments/files/24874604/ResumePMJan26.docx)">
+  <a href="https://drive.google.com/file/d/1UPyZF7Na_Nvw5b7Md_PudxRlMqSxlB1s/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-FFC0CB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
