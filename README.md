@@ -29,28 +29,57 @@
 
 Currently studying Informatics with a minor in Business at the University of Washington, I’m passionate about building things that genuinely help people. From working on AI-powered products to leading student communities and creating content, I enjoy turning ideas into meaningful, real-world experiences.
 
-I’m most excited by the intersection of **technology, business, and people**—where problem-solving meets storytelling and strategy meets empathy. I value collaboration, thoughtful design, and creating impact with intention, whether that’s through product work, consulting projects, or community leadership.
+My experience spans AI-powered product work, consulting projects, and community leadership, where I translate user needs into structured solutions and actionable strategy. I enjoy working at the intersection of **technology, business, and people**—where problem-solving meets storytelling and strategy meets empathy.
+
+I’m motivated by creating products that are both meaningful and scalable.
 
 ---
 
 ## 💼 Experience & Leadership
 
-- 🎓 B.S. in Informatics, Minor in Business – University of Washington  
-- 💼 Jack and Ann Rhodes Professional Sales Program – Michael G. Foster School of Business 
-- 🤖 Product Management Intern – Gekko Corporation  
-- 📊 Project Consultant – Technology Consulting Association (TCA)  
-- 🧠 Project Consultant – Information Consulting Group (ICG)  
-- 🎤 Content Committee – Women in Informatics (WINFO)  
-- 💖 Vice President of External Affairs – Sigma Psi Zeta Sorority, Inc.  
-- 🎥 Social Media Content Creator & UGC Partnerships  
+**🎓 B.S. in Informatics, Minor in Business — University of Washington**  
+- Building a foundation across human-centered design, software development, and data-driven decision-making.
+
+**💼 Jack and Ann Rhodes Professional Sales Program — Michael G. Foster School of Business**  
+- Developing client-facing communication, consultative selling, and go-to-market fundamentals.
+
+**🤖 Product Management Intern — Gekko Corporation**  
+- Supported AI-powered feature development through research, documentation, and roadmap planning.  
+- Collaborated with cross-functional stakeholders to translate business needs into product requirements.
+
+**📊 Project Consultant — Technology Consulting Association (TCA)**  
+- Delivered structured analyses and recommendations for clients through stakeholder collaboration and clear communication.
+
+**🧠 Project Consultant — Information Consulting Group (ICG)**  
+- Applied user research and product thinking to define problems and propose solutions aligned with organizational goals.
+
+**🎤 Content Committee — Women in Informatics (WINFO)**  
+- Created and edited digital content to support community engagement and student storytelling.
+
+**💖 Vice President of External Affairs — Sigma Psi Zeta Sorority, Inc.**  
+- Led partnerships and external relations while coordinating events with multiple student and campus stakeholders.  
+- Managed communications and planning to deliver high-attendance, community-centered experiences.
+
+**🎥 Social Media Content Creator & UGC Partnerships**  
+- Produced short-form content and brand collaborations with a focus on storytelling, audience growth, and creative strategy.
 
 ---
 
 ## 🚀 Projects
 
-### 🎨 Figma Prototypes
-🔗 [HCgiver – Interactive Prototype](https://www.figma.com/proto/3e7mg0pYvZX9yCs60a6xam/HCgiver-2.0?node-id=1-63&t=0xOjTFmlL2HVB0Dh-1)  
+### 🧠 NeedsNow — Disaster Relief Matching Platform
+**Problem:** During disasters, donated goods often fail to match real needs, creating logistical waste.  
+**Solution:** Designed a platform that matches donors with verified organizational requests.  
+**My Role:** Product strategy, user research, prototyping.  
 🔗 [NeedsNow – Interactive Prototype](https://www.figma.com/proto/iCEO44VJEDPVpVmmn11eYP/WINFO-HACK---NeedsNow?page-id=0%3A1&node-id=36-192&viewport=234%2C522%2C0.08&t=AfxphzHxNQixDIX2-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=36%3A192)
+
+---
+
+### 🏥 HCgiver — Healthcare Coordination Prototype
+**Problem:** Care coordination is fragmented, making scheduling and communication difficult for caregivers.  
+**Solution:** Designed a prototype to improve visibility, coordination, and communication across stakeholders.  
+**My Role:** UX research, product design, prototyping.  
+🔗 [HCgiver – Interactive Prototype](https://www.figma.com/proto/3e7mg0pYvZX9yCs60a6xam/HCgiver-2.0?node-id=1-63&t=0xOjTFmlL2HVB0Dh-1)
 
 ---
 
