@@ -83,6 +83,62 @@ I’m motivated by creating products that are both meaningful and scalable.
 
 ---
 
+### 🤖 AI Governance Chatbot — Capstone Project
+
+**Overview:**  
+Developed an AI-powered chatbot with integrated observability and governance (AI-SIEM) to improve trust, compliance, and reliability in highly regulated industries.
+
+#### 🎯 Goals
+
+**Team / Project Goals:**
+- Design and deploy a functional end-to-end chatbot system with observability
+- Ensure responses are safe, compliant, and grounded in verified knowledge (RAG)
+- Create a scalable, modular architecture using containerized services
+- Deliver a usable product validated through real user testing
+
+**Individual Goals:**
+- Strengthen product thinking in a technical environment  
+- Bridge communication between technical implementation and user/business needs  
+- Develop hands-on experience in AI product development and governance systems  
+
+#### ⚙️ Process
+
+**Team Actions:**
+- Collaborated to design a containerized architecture deployed on a single Oracle Cloud VM  
+- Integrated key components: chatbot framework, vector database (ChromaDB), FastAPI backend, and observability tools (OpenTelemetry + Splunk)  
+- Implemented Retrieval-Augmented Generation (RAG) to improve response accuracy  
+- Conducted usability testing to validate user experience and identify improvements  
+
+**My Contributions:**
+- Led product framing and value proposition, especially for regulated industries  
+- Translated user and business needs into structured product requirements  
+- Supported debugging and iteration of chatbot responses (e.g., improving RAG grounding)  
+- Contributed to presentation strategy, storytelling, and stakeholder communication  
+- Helped define success metrics and usability validation approach  
+
+#### 💡 Key Takeaways
+
+- **AI products require strong governance:** Building the chatbot revealed that accuracy alone is not enough—monitoring, safety checks, and explainability are critical.  
+- **Bridging technical + business is essential:** I learned how to translate complex systems (AI, observability, infrastructure) into clear value for users and stakeholders.  
+- **Iteration is everything:** Issues like the model not consistently using retrieved context highlighted the importance of testing, logging, and continuous refinement.  
+- **Team dynamics drive outcomes:** Progress depended heavily on communication, alignment, and shared ownership across technical and non-technical roles.  
+
+#### 🔭 Next Steps
+
+**Team Next Steps:**
+- Improve RAG reliability to ensure consistent use of retrieved knowledge  
+- Enhance observability dashboards for real-time monitoring and insights  
+- Implement stronger data persistence and authentication (e.g., PostgreSQL, API security)  
+- Explore multi-tenant architecture for scalability across multiple clients  
+
+**My Personal Next Steps:**
+- Deepen technical understanding of AI systems and infrastructure  
+- Continue building AI + product management expertise  
+- Apply these learnings to future product roles, especially in AI-driven or regulated environments  
+- Strengthen ability to lead cross-functional teams in technical product spaces  
+
+---
+
 ## 🛠 Skills
 
 ### Languages & Tools
