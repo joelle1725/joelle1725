@@ -1,13 +1,13 @@
 # Joelle Liu
 
 <p align="left">
-  <a href="https://linkedin.com/in/joelle-liu-35a931252">
+  <a href="https://www.linkedin.com/in/joelleliu-pm/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:joelle7@uw.edu">
     <img src="https://img.shields.io/badge/Email-153595?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://drive.google.com/file/d/1UPyZF7Na_Nvw5b7Md_PudxRlMqSxlB1s/view?usp=drive_link">
+  <a href="Joelle_Liu_PM_Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-FFC0CB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
@@ -38,16 +38,6 @@ I'm seeking Associate Product Manager and product-focused internship roles for 2
 I enjoy working at the intersection of **technology, business, and people**, where user needs, business goals, and scalable systems come together.
 
 Long term, I hope to build and scale products that are both technically innovative and human-centered, particularly in industries where trust, usability, and communication matter deeply.
-
----
-
-## 📈 Highlights
-
-- **$285K** in potential annual savings and **43.5 hrs/week** less manual work identified in a ServiceNow ITSM roadmap for West Monroe
-- **20+ stakeholders** interviewed across **3 businesses** ($850K+ combined revenue); all 3 clients adopted the recommendations
-- **15+ PRDs** written and **30%** accuracy improvement shipped with 5 engineers on an AI governance chatbot
-- **35%** revenue growth from fixes found by analyzing 20+ TikTok Live selling sessions
-- **Finalist, Best Overall** at the WINFO Hackathon, building a disaster-relief matching platform in 24 hours
 
 ---
 
@@ -273,7 +263,7 @@ Developed an AI-powered chatbot with integrated observability and governance (AI
 ## 📬 Contact
 
 - 📧 Email: [joelle7@uw.edu](mailto:joelle7@uw.edu)
-- 💼 LinkedIn: [linkedin.com/in/joelle-liu-35a931252](https://linkedin.com/in/joelle-liu-35a931252)
+- 💼 LinkedIn: [linkedin.com/in/joelleliu-pm](https://www.linkedin.com/in/joelleliu-pm/)
 
 ---
 
@@ -284,6 +274,6 @@ Developed an AI-powered chatbot with integrated observability and governance (AI
 ---
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin
-[linkedin-url]: https://linkedin.com/in/joelle-liu-35a931252
+[linkedin-url]: https://www.linkedin.com/in/joelleliu-pm/
 [email-shield]: https://img.shields.io/badge/email-153595?style=for-the-badge&logo=gmail&logoColor=white
 [email-url]: mailto:joelle7@uw.edu
