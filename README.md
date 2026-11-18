@@ -45,12 +45,16 @@ Long term, I hope to build and scale products that are both technically innovati
 
 ## 🚀 Product Management
 
-### 📸 Embers - Shared Party Photo App (Personal Project, October 2026 - Present)
-**Problem:** Photos from a party end up scattered across every guest's phone, and the best candids never get shared.
+### 📸 Embers - Shared Disposable Camera Web App for Social Gatherings (Personal Project, October 2026 - Present)
+**Problem:** Photos from dinners, game nights, and birthdays end up scattered across every guest's phone, and the best candids never get shared.
 
 **Solution:** A no-download web app where guests join through a shareable link, take film-style shots, and the host releases one shared gallery the next day.
 
-**My Role:** Product, design, and build. I wrote the PRD and use cases, defined host and guest requirements, scoped the MVP, and am testing it with real party guests.
+**My Role:** Product, design, and build.
+- Built and shipped Embers 0→1 with AI coding tools (Claude, Cursor), deployed live on Vercel and Supabase.
+- Wrote the PRD and use cases for host and guest flows, scoping an MVP with 10-shot rolls and 4 film looks.
+- Designed a link-based join flow so guests join straight from the group chat, with no app download.
+- Tested with guests at a live gathering and turned their feedback into redesigns of the capture and gallery flows.
 
 **Stack:** Supabase, Vercel
 
@@ -91,11 +95,11 @@ Developed an AI-powered chatbot with integrated observability and governance (AI
 - Conducted usability testing to validate user experience and identify improvements
 
 **My Contributions:**
-- Led product framing and value proposition, especially for regulated industries
-- Translated user and business needs into structured product requirements
-- Supported debugging and iteration of chatbot responses (e.g., improving RAG grounding)
-- Contributed to presentation strategy, storytelling, and stakeholder communication
-- Helped define success metrics and usability validation approach
+- Framed the product's value proposition for regulated industries, where trust and compliance decide adoption
+- Translated sponsor, user, and business needs into structured product requirements and user stories
+- Debugged and iterated on chatbot responses, tightening RAG grounding so answers drew on verified knowledge
+- Defined success metrics and the usability validation plan used to test the chatbot before launch
+- Shaped the presentation strategy and storytelling for sponsor and stakeholder reviews
 
 #### 💡 Key Takeaways
 
@@ -145,57 +149,63 @@ Developed an AI-powered chatbot with integrated observability and governance (AI
 ---
 
 ### 🍽 Product Manager Intern - Aptsys Technology Solutions (June 2025 - August 2025)
-- Conducted 10+ customer interviews with restaurant operators to translate workflows into point-of-sale product requirements.
+- Interviewed 10+ restaurant operators to translate their daily workflows into point-of-sale (POS) product requirements.
 - Documented user stories and PRDs for 5+ features, aligning engineering sprints with customer needs.
+- Partnered with engineering and sales to ship POS features supporting $50K+ ARR across enterprise clients.
 - Built and demoed product prototypes, synthesizing customer feedback to improve implementation efficiency by 20%.
 
 ### 📺 Product Management & Sales Intern - byCaxs (June 2025 - August 2025)
-- Analyzed 20+ TikTok Live sessions to flag operational bottlenecks, driving fixes that grew revenue by 35%.
-- Partnered with creators to launch 20+ campaigns, streamlining purchasing workflows for 50+ shoppers.
+- Hosted 50+ TikTok Live shopping streams, selling directly to buyers at a conversion rate 25% above brand average.
+- Analyzed 20+ TikTok Live sessions to flag purchase-funnel bottlenecks, driving fixes that grew revenue by 35%.
+- Partnered with creators to launch 20+ live selling campaigns, streamlining purchasing for 50+ shoppers.
 
 ---
 
 ## 📊 Consulting & Strategy
 
-### 📊 Summer Consultant - UW Foster Consulting & Business Development Center (June 2026 - September 2026)
-- Interviewed 20+ stakeholders across 3 businesses (restaurant/hospitality, education, and nonprofit/youth mental health) to gather requirements and surface pain points.
-- Analyzed financial and market data for 3 businesses generating $850K+ in combined revenue.
-- Documented as-is processes and to-be technology roadmaps for each client.
-- Presented findings to 10+ stakeholders; deliverables were adopted by all 3 clients.
+### 📊 Summer Consultant - UW Foster Consulting & Business Development Center (June 2026 - August 2026)
+- Advised 3 clients (restaurant/hospitality, education, and nonprofit/youth mental health) generating $850K+ in combined revenue, interviewing 20+ stakeholders to surface pain points.
+- Analyzed Toast, MarginEdge, and QuickBooks data for a restaurant client; recommended private events, menu engineering, and UGC marketing to attract new diners.
+- Diagnosed a 197-lead enrollment funnel for an education client, pinpointing drop-off between inquiry and consultation.
+- Analyzed Shopify sales for a nonprofit online store, finding 4 products drove ~90% of revenue, and recommended bundles and buyer segments to grow average order value.
+- Presented recommendations to 10+ stakeholders; all 3 clients adopted the final reports.
 
 ### 🧠 Business Analyst, ITSM + Portfolio - Informatics Consulting Group (March 2026 - June 2026)
-- Gathered functional requirements from stakeholders across a 4-team ServiceNow engagement for West Monroe.
-- Mapped as-is ITSM workflows and evaluated 8 ServiceNow applications on cost, effort, and workflow impact.
-- Built an implementation roadmap identifying $285K in potential annual savings, a ~3-month payback, and 43.5 hrs/week less manual work.
+- Evaluated 8 ServiceNow ITSM applications for West Monroe on cost, effort, and workflow impact, as part of a 12-consultant, 4-team engagement.
+- Mapped as-is ITSM workflows and gathered functional requirements from stakeholders.
+- Identified $285K in potential annual savings and 43.5 hrs/week of reduced manual work, including ~$59K a year from reclaiming unused licenses.
+- Built a prioritized implementation roadmap projecting a ~3-month payback on the recommended tools.
 
 ### 📊 Business Consultant - Technology Consulting Association (January 2026 - March 2026)
-- Worked with a 5-person business and technical team to scope a small business client's requirements.
-- Mapped the client's customer acquisition funnel across referral and marketplace channels.
-- Analyzed 3+ competitors' marketing channels and recommended a local SEO, referral incentive, and review-generation strategy.
+- Mapped a home services client's customer acquisition funnel across referrals, Thumbtack, and Angi to find visibility gaps.
+- Analyzed 3+ competitors' marketing and social channels to benchmark the client's local presence.
+- Recommended a local SEO, referral incentive, and review-generation strategy to grow local market visibility.
+- Scoped and prioritized feasible solutions with a 5-person cross-functional business and tech team.
 
 ### 💼 Jack and Ann Rhodes Professional Sales Program - Foster School of Business
-- Developed consultative selling, client communication, and go-to-market strategy fundamentals.
-- Strengthened skills in relationship-building, storytelling, and business development.
+- Trained in consultative selling, client discovery, and go-to-market strategy.
+- Applied relationship-building and business development skills in client-facing roles at byCaxs and CBDC.
 
 ---
 
 ## 🛠 Technology Support
 
 ### 💻 Learning Technologies Consultant - UW Academic Strategy & Affairs (April 2026 - Present)
-- Resolve issues on 4 platforms (Canvas, Zoom, Poll Everywhere, Panopto) for UW faculty, staff, and students.
-- Document technical fixes and support software testing and QA with developers.
+- Support software testing and QA with developers across 4 platforms (Canvas, Zoom, Poll Everywhere, Panopto).
+- Research, resolve, and document fixes for user-reported issues from UW faculty, staff, and students.
 
 ---
 
 ## 🎨 Content Creation & Marketing
 
-### 🎥 Social Media Content Creator & UGC Partnerships
-- Produced short-form content and collaborated with brands through audience-focused storytelling.
-- Built experience in creative strategy, engagement, and digital marketing communication.
+### 🎥 Content Creator - Independent UGC Brand Partnerships (2021 - Present)
+- Produced short-form content for 20+ brands, including Rimmel London and Disney+, reaching 94K+ organic views.
+- Break down ideas through audience-focused storytelling, shaping creative strategy for each brand partnership.
 
-### 🎤 Content Committee Lead - Women in Informatics (WINFO) (January 2025 - Present)
-- Coordinated 15+ contributors to launch 6 podcast episodes.
-- Used listener analytics and feedback from 50+ listeners to shape content strategy each season.
+### 🎤 Content Committee Lead - Women in Informatics (WINFO) (January 2025 - June 2026)
+- Coordinated 15+ contributors to launch 6 podcast episodes 0→1, growing WINFO's audience reach across platforms.
+- Analyzed listener analytics across 6 episodes to shape the content roadmap.
+- Gathered feedback from 50+ listeners to prioritize upcoming topics each season.
 
 ---
 
@@ -203,8 +213,9 @@ Developed an AI-powered chatbot with integrated observability and governance (AI
 
 ### 💖 Vice President of External Affairs - Sigma Psi Zeta Sorority, Inc. (May 2025 - May 2026)
 - Led a 10-member executive board to launch recruitment initiatives reaching 100+ prospective members.
-- Managed relationships with 10+ external organizations and resolved conflicts to maintain alignment.
-- Partnered with campus organizations on joint events, negotiating shared priorities across stakeholders.
+- Analyzed recruitment metrics across campaigns to inform outreach strategy, increasing participation 3x.
+- Managed relationships with 10+ external organizations, resolving conflicts to maintain standing and alignment.
+- Partnered with 3+ campus organizations on joint events, negotiating shared priorities across stakeholders.
 
 ### 🎓 B.S. in Informatics (Data Science), Minor in Business - University of Washington
 - Building a foundation in human-centered design, software development, data-driven decision-making, and collaborative problem-solving.
