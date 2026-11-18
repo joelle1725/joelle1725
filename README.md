@@ -87,10 +87,50 @@ I'm a senior at the University of Washington studying Informatics (Data Science)
 - Diagnosed a 197-lead enrollment funnel for an education client, pinpointing drop-off between inquiry and consultation.
 - Analyzed Toast, MarginEdge, and QuickBooks data for a restaurant client to recommend private events, menu engineering, and UGC marketing.
 
+<details>
+<summary><b>Client story: finding where a nonprofit store's revenue really came from</b></summary>
+
+<br/>
+
+**Context:** A nonprofit client runs a Shopify online store and wanted to grow its online sales.
+
+**Question:** Which products and buyers actually drive revenue, and where should the store focus?
+
+**What I did**
+- Analyzed the store's Shopify sales data by product.
+- Found that just 4 flagship products drove about 90% of revenue, so the long tail of other products added little.
+- Looked at who buys, and identified buyer segments across 3 institutional markets.
+
+**Recommendation:** Build bundles around the 4 flagship products and target them to those institutional buyer segments, to grow average order value instead of spreading effort across the whole catalog.
+
+**Outcome:** The client adopted the recommendations in the final report, as did all 3 of my CBDC clients.
+
+</details>
+
 ### 🧠 Business Analyst, ITSM + Portfolio - Informatics Consulting Group (March 2026 - June 2026)
 - Evaluated 8 ServiceNow ITSM applications for West Monroe on cost, effort, and workflow impact, as part of a 12-consultant, 4-team engagement.
 - Identified $285K in potential annual savings and 43.5 hrs/week of reduced manual work, including ~$59K a year from reclaiming unused licenses.
 - Built a prioritized implementation roadmap projecting a ~3-month payback on the recommended tools.
+
+<details>
+<summary><b>Consulting deep dive: how we sized $285K in savings</b></summary>
+
+<br/>
+
+**Context:** West Monroe needed to decide which ServiceNow ITSM applications to adopt. I was on Team 1 (ITSM + Portfolio), one of 4 teams in a 12-consultant engagement.
+
+**Approach**
+1. **Mapped the current state:** documented as-is ITSM workflows and gathered functional requirements from stakeholders to see where manual work piled up.
+2. **Evaluated 8 ServiceNow applications** on three criteria: implementation cost, implementation effort, and impact on the team's workflows.
+3. **Sized the value:** estimated hours saved and annual savings for each recommended tool, including licenses the team was paying for but not using.
+4. **Prioritized a roadmap:** turned the evaluation into a sequenced implementation plan.
+
+**Results**
+- $285K in potential annual savings, including ~$59K a year from reclaiming unused licenses
+- 43.5 hours a week of reduced manual work for the ITSM team
+- A prioritized implementation roadmap with a ~3-month payback period
+
+</details>
 
 ### 📊 Business Consultant - Technology Consulting Association (January 2026 - March 2026)
 - Mapped a home services client's customer acquisition funnel across referrals, Thumbtack, and Angi to find visibility gaps.
@@ -113,7 +153,35 @@ Guests join from a shared link, take film-style shots, and the host releases one
 - Designed a link-based join flow so guests join straight from the group chat, with no app download.
 - Tested with guests at a live gathering and turned their feedback into redesigns of the capture and gallery flows.
 
-🔗 [Try Embers](https://embers-umber.vercel.app)
+🔗 [Try Embers](https://embers-umber.vercel.app) · [Read the PRD](https://docs.google.com/document/d/1VgeECIlaB-PrDUbMq3PXDZ46z1wrvCSM3aOsD5Ivq6w/edit)
+
+<details>
+<summary><b>Product deep dive: decisions, tradeoffs, and what I'd test</b></summary>
+
+<br/>
+
+**Problem:** After a get-together, photos are scattered across 20 phones and the host spends days texting people for them. Guests who shoot hundreds of near-identical photos bury the good ones, and guests who shot none never see the night.
+
+**Core bet:** A small roll and a delayed reveal make guests more intentional, and the photos more exciting, than an unlimited camera roll.
+
+**Competitive read:** The closest alternative, Lense, is also a no-download web camera with a delayed reveal. So "no app" and "revealed later" are table stakes, not the edge. I positioned Embers on what a small gathering needs: a host-set end time, name search in the gallery, and a privacy gate.
+
+**Key decisions**
+
+| Decision | Why | Tradeoff I accepted |
+| --- | --- | --- |
+| Website, not an app | Tapping a link in the group chat takes seconds; installing an app makes people skip it | Camera needs a permission tap, and in-app browsers (Instagram, Snapchat) can block it, so the app explains how to fix it |
+| Roll ends at 10 shots or the host's end time, whichever comes first | Keeps the film feel without pressuring guests to burn all 10 | A late guest may find the roll already closed |
+| Gallery needs the gathering code plus a guest's email | The link stays shareable without exposing photos to strangers | The code travels with the link, so the email is the real gate; a one-time email code is the planned upgrade |
+| 6-digit email code to join, with shots counted on the server | Stops people using a fake address to get a second roll | One extra step at the door |
+
+**Success metrics for the first gathering:** 80%+ join rate, under 60 seconds from link to first photo, 98%+ upload success, and 70%+ of guests opening the gallery within 48 hours.
+
+**What testing surfaced:** Verification emails landed in spam because they came from a new Gmail sender, so the fix is a verified domain with a transactional email service before wider use. Gallery opens and name searches weren't logged yet, so an event log is next before the second gathering.
+
+**Riskiest assumption:** that a 10-shot cap feels like a feature, not a limit. I'm testing it by comparing shots used per guest and interviewing guests after the night.
+
+</details>
 
 ### 🧠 NeedsNow - Disaster Relief Matching Platform (WINFO Hackathon, January 2025)
 - Scoped and built a platform in 24 hours that matches donors with verified organizational requests.
