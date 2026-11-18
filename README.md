@@ -110,7 +110,7 @@ Developed an AI-powered chatbot with integrated observability and governance (AI
 
 #### 🔭 Next Steps
 - Improve RAG reliability so the chatbot consistently uses retrieved knowledge
-- Add real-time observability dashboards for monitoring and insights
+- Expand the observability dashboards for real-time monitoring and insights
 - Explore a multi-tenant architecture to scale across multiple clients
 
 ---
