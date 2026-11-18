@@ -109,18 +109,9 @@ Developed an AI-powered chatbot with integrated observability and governance (AI
 - **Team dynamics drive outcomes:** Progress depended heavily on communication, alignment, and shared ownership across technical and non-technical roles.
 
 #### 🔭 Next Steps
-
-**Team Next Steps:**
-- Improve RAG reliability to ensure consistent use of retrieved knowledge
-- Enhance observability dashboards for real-time monitoring and insights
-- Implement stronger data persistence and authentication (e.g., PostgreSQL, API security)
-- Explore multi-tenant architecture for scalability across multiple clients
-
-**My Personal Next Steps:**
-- Deepen technical understanding of AI systems and infrastructure
-- Continue building AI + product management expertise
-- Apply these learnings to future product roles, especially in AI-driven or regulated environments
-- Strengthen ability to lead cross-functional teams in technical product spaces
+- Improve RAG reliability so the chatbot consistently uses retrieved knowledge
+- Add real-time observability dashboards for monitoring and insights
+- Explore a multi-tenant architecture to scale across multiple clients
 
 ---
 
