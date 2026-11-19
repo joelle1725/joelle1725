@@ -88,22 +88,19 @@ I'm a senior at the University of Washington studying Informatics (Data Science)
 - Analyzed Toast, MarginEdge, and QuickBooks data for a restaurant client to recommend private events, menu engineering, and UGC marketing.
 
 <details>
-<summary><b>Client story: finding where a nonprofit store's revenue really came from</b></summary>
+<summary><b>Client story: where a nonprofit store's revenue really came from</b></summary>
 
 <br/>
 
-**Context:** A nonprofit client runs a Shopify online store and wanted to grow its online sales.
+**Finding:** 4 flagship products drove about 90% of the nonprofit's Shopify revenue.
 
-**Question:** Which products and buyers actually drive revenue, and where should the store focus?
+**So what:** The rest of the catalog adds little. Spreading effort across every product dilutes the store's best sellers.
 
-**What I did**
-- Analyzed the store's Shopify sales data by product.
-- Found that just 4 flagship products drove about 90% of revenue, so the long tail of other products added little.
-- Looked at who buys, and identified buyer segments across 3 institutional markets.
+**Recommendation:** Bundle the 4 flagship products and sell them to 3 institutional buyer segments to raise average order value.
 
-**Recommendation:** Build bundles around the 4 flagship products and target them to those institutional buyer segments, to grow average order value instead of spreading effort across the whole catalog.
+**Outcome:** The client adopted the recommendation in the final report.
 
-**Outcome:** The client adopted the recommendations in the final report, as did all 3 of my CBDC clients.
+**What I took away:** Keep asking "so what?" until the finding tells the client what to do next. Be direct about the recommendation and cut everything else.
 
 </details>
 
@@ -129,6 +126,8 @@ I'm a senior at the University of Washington studying Informatics (Data Science)
 - $285K in potential annual savings, including ~$59K a year from reclaiming unused licenses
 - 43.5 hours a week of reduced manual work for the ITSM team
 - A prioritized implementation roadmap with a ~3-month payback period
+
+**What I took away:** Technology consulting isn't just comparing features and price. The right recommendation weighs how a tool integrates with existing systems, its impact on the team, and whether it fits the company. And savings mean more than money: 43.5 hours a week back is value too.
 
 </details>
 
