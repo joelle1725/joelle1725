@@ -26,7 +26,7 @@
 
 ## 👩🏻‍💻 About Me
 
-I'm a senior at the University of Washington studying Informatics (Data Science) with a Business minor, graduating June 2027. I work where technology, business, and people meet: turning user needs into products, and messy problems into clear recommendations.
+I'm a senior at the University of Washington studying Informatics: Data Science with a Business minor, graduating June 2027. I work where technology, business, and people meet: turning user needs into products, and messy problems into clear recommendations.
 
 **Open to:** Associate Product Manager roles and 2027 internships in product, product strategy, technology consulting, and AI.
 
@@ -213,7 +213,7 @@ Guests join from a shared link, take film-style shots, and the host releases one
 
 # 🎓 Education
 
-**University of Washington** - B.S. in Informatics (Data Science), Minor in Business | Graduating June 2027
+**University of Washington** - B.S. in Informatics: Data Science, Minor in Business | Graduating June 2027
 - Jack and Ann Rhodes Professional Sales Program (consultative selling, client discovery, go-to-market strategy)
 - Involvement: Technology Consulting Association, Informatics Consulting Group, Women in Informatics
 
