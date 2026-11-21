@@ -28,9 +28,54 @@ I'm a senior at the University of Washington studying Informatics: Data Science 
 **Open to:** Associate Product Manager roles and 2027 internships in product, product strategy, technology consulting, and AI.
 
 **At a glance**
-- 🤖 PM on an AI governance chatbot: RAG features that improved accuracy by 30% and cut reported errors by 20%
+- 🤖 PM on an AI governance chatbot: RAG features projected to improve accuracy by 30%, plus usability fixes that cut reported errors by 20%
 - 📊 Found $285K in potential annual savings across 8 ServiceNow apps for West Monroe
 - 📸 Built and launched Embers, a live consumer web app, from PRD to deployment
+
+<!-- Add a screenshot or GIF of Embers as assets/embers-preview.png, then uncomment:
+<p align="center"><img src="assets/embers-preview.png" width="640" alt="Embers: shared disposable camera web app"/></p>
+-->
+
+---
+
+# 🚀 Featured Project
+
+### 📸 Embers - Shared Disposable Camera Web App for Social Gatherings (October 2026 - Present)
+Guests join from a shared link, take film-style shots, and the host releases one shared gallery the next day.
+- Built and shipped Embers 0→1 with AI coding tools (Claude, Cursor), deployed live on Vercel and Supabase.
+- Wrote the PRD and use cases for host and guest flows, scoping an MVP with 10-shot rolls and 4 film looks.
+- Designed a link-based join flow so guests join straight from the group chat, with no app download.
+- Tested with guests at a live gathering and turned their feedback into redesigns of the capture and gallery flows.
+
+🔗 [Try Embers](https://embers-umber.vercel.app) · [Read the PRD](https://docs.google.com/document/d/1VgeECIlaB-PrDUbMq3PXDZ46z1wrvCSM3aOsD5Ivq6w/edit)
+
+<details>
+<summary><b>Product deep dive: decisions, tradeoffs, and what I'd test</b></summary>
+
+<br/>
+
+**Problem:** After a get-together, photos are scattered across 20 phones and the host spends days texting people for them. Guests who shoot hundreds of near-identical photos bury the good ones, and guests who shot none never see the night.
+
+**Core bet:** A small roll and a delayed reveal make guests more intentional, and the photos more exciting, than an unlimited camera roll.
+
+**Competitive read:** The closest alternative, Lense, is also a no-download web camera with a delayed reveal. So "no app" and "revealed later" are table stakes, not the edge. I positioned Embers on what a small gathering needs: a host-set end time, name search in the gallery, and a privacy gate.
+
+**Key decisions**
+
+| Decision | Why | Tradeoff I accepted |
+| --- | --- | --- |
+| Website, not an app | Tapping a link in the group chat takes seconds; installing an app makes people skip it | Camera needs a permission tap, and in-app browsers (Instagram, Snapchat) can block it, so the app explains how to fix it |
+| Roll ends at 10 shots or the host's end time, whichever comes first | Keeps the film feel without pressuring guests to burn all 10 | A late guest may find the roll already closed |
+| Gallery needs the gathering code plus a guest's email | The link stays shareable without exposing photos to strangers | The code travels with the link, so the email is the real gate; a one-time email code is the planned upgrade |
+| 6-digit email code to join, with shots counted on the server | Stops people using a fake address to get a second roll | One extra step at the door |
+
+**Success metrics for the first gathering:** 80%+ join rate, under 60 seconds from link to first photo, 98%+ upload success, and 70%+ of guests opening the gallery within 48 hours.
+
+**What testing surfaced:** Verification emails landed in spam because they came from a new Gmail sender, so the fix is a verified domain with a transactional email service before wider use. Gallery opens and name searches weren't logged yet, so an event log is next before the second gathering.
+
+**Riskiest assumption:** that a 10-shot cap feels like a feature, not a limit. I'm testing it by comparing shots used per guest and interviewing guests after the night.
+
+</details>
 
 ---
 
@@ -41,7 +86,7 @@ I'm a senior at the University of Washington studying Informatics: Data Science 
 ### 🤖 Product Management Intern - Gekko Corporation (December 2025 - May 2026)
 - Led 0→1 discovery for an AI governance chatbot, conducting 10+ interviews to define user journeys and MVP scope.
 - Authored 15+ PRDs and user stories, prioritizing the backlog against customer feedback and business goals.
-- Partnered with 5 engineers on a RAG-based architecture, shipping compliant AI features that improved accuracy by 30%.
+- Partnered with 5 engineers on a RAG-based architecture, shipping compliant AI features projected to improve accuracy by 30%.
 - Led usability testing with 10+ stakeholders before launch, turning feedback into fixes that cut reported errors by 20%.
 
 <details>
@@ -140,44 +185,7 @@ I'm a senior at the University of Washington studying Informatics: Data Science 
 
 ---
 
-# 🛠 Projects
-
-### 📸 Embers - Shared Disposable Camera Web App for Social Gatherings (October 2026 - Present)
-Guests join from a shared link, take film-style shots, and the host releases one shared gallery the next day.
-- Built and shipped Embers 0→1 with AI coding tools (Claude, Cursor), deployed live on Vercel and Supabase.
-- Wrote the PRD and use cases for host and guest flows, scoping an MVP with 10-shot rolls and 4 film looks.
-- Designed a link-based join flow so guests join straight from the group chat, with no app download.
-- Tested with guests at a live gathering and turned their feedback into redesigns of the capture and gallery flows.
-
-🔗 [Try Embers](https://embers-umber.vercel.app) · [Read the PRD](https://docs.google.com/document/d/1VgeECIlaB-PrDUbMq3PXDZ46z1wrvCSM3aOsD5Ivq6w/edit)
-
-<details>
-<summary><b>Product deep dive: decisions, tradeoffs, and what I'd test</b></summary>
-
-<br/>
-
-**Problem:** After a get-together, photos are scattered across 20 phones and the host spends days texting people for them. Guests who shoot hundreds of near-identical photos bury the good ones, and guests who shot none never see the night.
-
-**Core bet:** A small roll and a delayed reveal make guests more intentional, and the photos more exciting, than an unlimited camera roll.
-
-**Competitive read:** The closest alternative, Lense, is also a no-download web camera with a delayed reveal. So "no app" and "revealed later" are table stakes, not the edge. I positioned Embers on what a small gathering needs: a host-set end time, name search in the gallery, and a privacy gate.
-
-**Key decisions**
-
-| Decision | Why | Tradeoff I accepted |
-| --- | --- | --- |
-| Website, not an app | Tapping a link in the group chat takes seconds; installing an app makes people skip it | Camera needs a permission tap, and in-app browsers (Instagram, Snapchat) can block it, so the app explains how to fix it |
-| Roll ends at 10 shots or the host's end time, whichever comes first | Keeps the film feel without pressuring guests to burn all 10 | A late guest may find the roll already closed |
-| Gallery needs the gathering code plus a guest's email | The link stays shareable without exposing photos to strangers | The code travels with the link, so the email is the real gate; a one-time email code is the planned upgrade |
-| 6-digit email code to join, with shots counted on the server | Stops people using a fake address to get a second roll | One extra step at the door |
-
-**Success metrics for the first gathering:** 80%+ join rate, under 60 seconds from link to first photo, 98%+ upload success, and 70%+ of guests opening the gallery within 48 hours.
-
-**What testing surfaced:** Verification emails landed in spam because they came from a new Gmail sender, so the fix is a verified domain with a transactional email service before wider use. Gallery opens and name searches weren't logged yet, so an event log is next before the second gathering.
-
-**Riskiest assumption:** that a 10-shot cap feels like a feature, not a limit. I'm testing it by comparing shots used per guest and interviewing guests after the night.
-
-</details>
+# 🛠 More Projects
 
 ### 🧠 NeedsNow - Disaster Relief Matching Platform (WINFO Hackathon, January 2025)
 - Scoped and built a platform in 24 hours that matches donors with verified organizational requests.
@@ -221,14 +229,11 @@ Guests join from a shared link, take film-style shots, and the host releases one
 ### Languages & Tools
 
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="R" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 <img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Illustrator" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
-<img align="left" alt="Photoshop" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" />
 
 <br/><br/>
 
@@ -252,7 +257,6 @@ Guests join from a shared link, take film-style shots, and the host releases one
 - Jira
 - Supabase
 - Data Visualization
-- Firebase
 - GitHub
 - Figma
 
